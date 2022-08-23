@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial life and evolution of brain intelligence
 - 🌱 I’m currently learning container
 - 💞️ I’m looking to collaborate on artificial life design
-- 📫 How to reach me IM
+- 📫 DM
 
 <!---
 MLSci/MLSci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
