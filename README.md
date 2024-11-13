@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MLSci
 - 👀 I’m interested in artificial life and evolution of brain intelligence
-- 🌱 I’m currently learning container
+- 🌱 I’m currently learning messaging
 - 💞️ I’m looking to collaborate on artificial life design
 - 📫 DM
 
